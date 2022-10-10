@@ -1,6 +1,6 @@
-# Java-Springboot---REST-API
+# Java-Spring-REST-API
 
-# Attachments Service (Java-Springboot-REST-API)
+# Attachments Service (Java-Spring-REST-API)
 
 ## Status of this document
 
@@ -24,7 +24,7 @@ The service offers an application where we can read, add, update or delete a cus
 
 ## Framework and programing languages used
 
-* The microservice is build using the Springboot framework with the Java language
+* The microservice is build using the Spring framework with the Java language
 
 ## Database
 
